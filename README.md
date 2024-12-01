@@ -29,9 +29,6 @@ He trabajado en varios proyectos académicos y personales, que incluyen la creac
   <li>Trabajo en equipo en proyectos de programación orientada a objetos y metodologías ágiles.</li>
 </ul>
 
-## 📫 ¿Cómo contactarme?
-Puedes contactarme a través de mi correo electrónico: <a href="mailto:kevin@example.com">kevin@example.com</a>.
-
 ## 🔗 Conéctate conmigo:
 <ul>
   <li><a href="https://www.linkedin.com/in/kevin-alonso-nuñez-méndez">LinkedIn</a></li>
