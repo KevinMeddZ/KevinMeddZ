@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hola, soy Kevin Alonso Núñez Méndez 👋
 
-<!--
-**KevinMeddZ/KevinMeddZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de **Ingeniería en Sistemas** en la **Universidad Autónoma de Centroamérica**, actualmente en el 7mo cuatrimestre. Me apasiona el desarrollo de software y las tecnologías emergentes.
 
-Here are some ideas to get you started:
+## 🌱 Actualmente estoy aprendiendo:
+<ul>
+  <li>Patrones de diseño y su implementación en proyectos de software.</li>
+  <li>Optimización y estructuración de proyectos utilizando MVC y otros patrones orientados a comportamiento.</li>
+  <li>Desarrollo en C#, Java, y ASP.NET Core, incluyendo CRUD y aplicaciones con bases de datos.</li>
+  <li>Uso de herramientas como NetBeans, Visual Studio y SQL Server para el desarrollo de proyectos completos.</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologías que manejo:
+<ul>
+  <li><strong>Lenguajes de Programación</strong>: Java, C#, SQL, HTML, CSS, JavaScript, ASP.NET Core</li>
+  <li><strong>Base de Datos</strong>: SQL Server, Azure</li>
+  <li><strong>Patrones de Diseño</strong>: Factory Method, Strategy, Adapter, Singleton, Decorator, MVC, Chain of Responsibility</li>
+  <li><strong>Herramientas y Frameworks</strong>: NetBeans, Visual Studio, SQL Server Management Studio (SSMS), Apache PDFBox</li>
+</ul>
+
+## 💼 Experiencia de Proyecto:
+He trabajado en varios proyectos académicos y personales, que incluyen la creación de sistemas de gestión, CRUD de empleados, y generación de documentos con Apache PDFBox. He implementado patrones de diseño para estructurar estos proyectos de manera eficiente y escalable.
+
+## 🌟 Intereses:
+<ul>
+  <li>Desarrollo de software para sistemas de gestión empresarial.</li>
+  <li>Investigación y aplicación de nuevos patrones de diseño en proyectos reales.</li>
+  <li>Optimización de bases de datos y consultas SQL para mejorar el rendimiento.</li>
+  <li>Trabajo en equipo en proyectos de programación orientada a objetos y metodologías ágiles.</li>
+</ul>
+
+## 📫 ¿Cómo contactarme?
+Puedes contactarme a través de mi correo electrónico: <a href="mailto:kevin@example.com">kevin@example.com</a>.
+
+## 🔗 Conéctate conmigo:
+<ul>
+  <li><a href="https://www.linkedin.com/in/kevin-alonso-nuñez-méndez">LinkedIn</a></li>
+  <li><a href="https://github.com/kevin-alonso">GitHub</a></li>
+</ul>
