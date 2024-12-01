@@ -31,6 +31,8 @@ He trabajado en varios proyectos académicos y personales, que incluyen la creac
 
 ## 🔗 Conéctate conmigo:
 <ul>
-  <li><a href="https://www.linkedin.com/in/kevin-alonso-nuñez-méndez">LinkedIn</a></li>
+  <li><a href="www.linkedin.com/in/
+kevin-núñez-méndez-7a599924b
+">LinkedIn</a></li>
   <li><a href="https://github.com/kevin-alonso">GitHub</a></li>
 </ul>
